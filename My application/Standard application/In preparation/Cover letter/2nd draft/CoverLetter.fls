@@ -1,0 +1,10 @@
+PWD /Users/tuyenbktp/Documents/Faculty position application/My application/Standard application/In preparation/Cover letter/2nd draft
+INPUT /usr/local/texlive/2014/texmf.cnf
+INPUT /usr/local/texlive/2014/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2014/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT CoverLetter.tex
+OUTPUT CoverLetter.log
+INPUT /usr/local/texlive/2014/texmf-dist/tex/latex/base/letter.cls
+INPUT /usr/local/texlive/2014/texmf-dist/tex/latex/base/letter.cls
+INPUT /usr/local/texlive/2014/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2014/texmf-dist/tex/latex/base/size10.clo
